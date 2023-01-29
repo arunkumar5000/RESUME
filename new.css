@@ -1,0 +1,104 @@
+body{
+    /* margin:0; */
+    text-align: center;
+    /* background-color: black; */
+    /* position: relative; */
+    
+}
+h1{
+    font-size: 3rem;
+    width: 50%;
+    margin: 0 auto 0 auto;
+    font-style: italic;
+    color: purple;
+    font-family: 'Sacramento', cursive;
+    /* font-size: 50px; */
+}
+.ala{
+    position: relative;
+    height: 600px;
+}
+.myskills-pic{
+    border-radius: 50%;
+    width: 220px;
+    position: relative;
+    margin-right: 900px;
+    margin-top: 30px;
+}
+.topclo{
+    position: relative;
+    left: 220px;
+    margin-top: 50px;
+}
+.bottclo{
+    position: absolute;
+    bottom: auto;
+    left: 210px;
+    margin: 20px;
+}
+.bigimg{
+    position: absolute;
+    left: 310px;
+    bottom: 0px;
+}
+.pic{
+    border-radius: 15px;
+    width: 150px;
+    margin-top: 10px;
+}
+.middle-container{
+    background-color: yellowgreen;
+}
+.bottom-container{
+    margin: 0;
+    background-color: burlywood;
+}
+.h2-font{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: black;
+}
+.skill-row{
+    position: relative;
+}
+.font{
+    position: relative;
+    margin-right: 900px;
+}
+/* .AWS-DETAILS{
+    
+    width: 220px;
+    position: re;
+    margin-left: 700px;
+    margin-bottom: 600px ;
+} */
+.AWS{
+    border-radius: 50%;
+    margin: 0;
+    width: 0 auto 0 auto;
+    height: 200px;
+    width: 200px;
+}
+.java-img{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    margin-left: 750px;
+    position: relative;
+    margin-top: 20px;
+}
+.java{
+    position: relative;
+    clear: right;
+}
+
+
+
+
+/* .aws-services{
+    display: block;
+} */
+/* border-radius: 50%;
+    width: 220px;
+    position: relative;
+    margin-right: 900px;
+    margin-top: 30px; */
